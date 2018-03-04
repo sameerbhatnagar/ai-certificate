@@ -56,7 +56,6 @@ psycopg2==2.7.3.2
 ptyprocess==0.5.1
 pydotplus==2.0.2
 Pygments==2.2.0
-pygpu==0.6.9
 pymc3==3.0
 pyparsing==2.2.0
 pyproj==1.9.5.1
